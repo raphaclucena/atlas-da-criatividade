@@ -12,7 +12,7 @@ Esta aplicação permite que você pesquise por termos, conceitos, escolas de ar
 - 🗓️ **Data ou período histórico**  
 - 🎨 **Principais características**  
 - 🔗 **Link para aprofundamento**
-- 🤚 ** Relação com outros termos similares **
+- 🤚 **Relação com outros termos similares**
 
 Uma forma simples, direta e acessível de explorar fundamentos do design e da arte.
 
